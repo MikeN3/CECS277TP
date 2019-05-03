@@ -28,3 +28,7 @@ git push
 
 
 you can also use the GUI but i have not used it and can't help with it
+
+if you want to learn more:
+
+https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html
