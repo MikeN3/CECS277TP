@@ -22,7 +22,7 @@ whenever you are done or taking a break open git in the CECS277TP folder and typ
 
 git add *			(adds new folder and files created)
 
-git commit -m "<insert messege>"			(stages files to be pushed)
+git commit -m "(insert messege)"			(stages files to be pushed)
 
 git push
 
