@@ -25,3 +25,6 @@ git add *			(adds new folder and files created)
 git commit -m "<insert messege>"			(stages files to be pushed)
 
 git push
+
+
+you can also use the GUI but i have not used it and can't help with it
