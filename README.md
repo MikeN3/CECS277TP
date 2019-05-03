@@ -12,7 +12,7 @@ git config --global user.email "your_email_address@example.com"
 
 to copy the repo into the folder type
 
-type "git clone https://github.com/Aparaxium/CECS277TP.git"
+"git clone https://github.com/Aparaxium/CECS277TP.git"
 
 before you edit code always open git in the CECS277TP folder and type
 
